@@ -1,7 +1,7 @@
-Number,Name,Nickname,City,StateProv,Country,RookieYear,RobotName,HasConnected
-1501,"PHD, Inc./YRG Robotics/Ecolab/Huntington County Community Learning Center/Carrier/BAE Systems/AEP/Apollo Casters/First Indiana Robotics/Community Link FCU/Raytheon/Shuttleworth/Huntington County 4H/Pretzels/Deister&4-H",Team THRUST,Huntington,Indiana,USA,2005,,TRUE
-2501,,,,,,0,,FALSE
-3501,,,,,,0,,FALSE
-4501,,,,,,0,,FALSE
-6501,,,,,,0,,FALSE
-7501,,,,,,0,,FALSE
+Number,Name,Nickname,City,StateProv,Country,RookieYear,RobotName,HasConnected,Has-Connected
+1501,"PHD, Inc./YRG Robotics/Ecolab/Huntington County Community Learning Center/Carrier/BAE Systems/AEP/Apollo Casters/First Indiana Robotics/Community Link FCU/Raytheon/Shuttleworth/Huntington County 4H/Pretzels/Deister&4-H",Team THRUST,Huntington,Indiana,USA,2005,,TRUE,1
+2501,,,,,,0,,FALSE,0
+3501,,,,,,0,,FALSE,0
+4501,,,,,,0,,FALSE,0
+6501,,,,,,0,,FALSE,0
+7501,,,,,,0,,FALSE,0
