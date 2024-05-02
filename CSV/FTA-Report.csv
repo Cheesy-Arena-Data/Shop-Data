@@ -1,7 +1,7 @@
-Number,HasConnected,FtaNotes
-1501,TRUE,
-2501,FALSE,
-3501,FALSE,
-4501,FALSE,
-6501,FALSE,
-7501,FALSE,
+Number,HasConnected,Has-Connected,FtaNotes
+1501,1,TRUE,
+2501,0,FALSE,
+3501,0,FALSE,
+4501,0,FALSE,
+6501,0,FALSE,
+7501,0,FALSE,
