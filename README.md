@@ -1,3 +1,6 @@
 # Shop-Data
 
-[Contribution guidelines for this project](PDF's/practice.pdf)
+[Practice Match Schedule](PDF's/practice.pdf)
+[Teams](PDF's/teams.pdf)
+[Qualification Match Schedule](PDF's/qualification.pdf)
+
